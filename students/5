@@ -1,0 +1,7 @@
+try:
+	a=input("Enter the expression")
+	result=eval(a)
+	print(result)
+except:
+	print("there  is an expection zero division")
+
